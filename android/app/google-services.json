@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "200155806116",
+    "project_id": "klinik-app-9f9c8",
+    "storage_bucket": "klinik-app-9f9c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200155806116:android:97aea60a8203a5c5006931",
+        "android_client_info": {
+          "package_name": "com.example.klinik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrz4ciktCBX7H3WYpuAG_wpEbI_6mBonc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200155806116:android:94568fd249bf4599006931",
+        "android_client_info": {
+          "package_name": "com.klinik.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrz4ciktCBX7H3WYpuAG_wpEbI_6mBonc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200155806116:android:90f4f2fb9d6499f0006931",
+        "android_client_info": {
+          "package_name": "com.ubsi.klinik.klinik_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrz4ciktCBX7H3WYpuAG_wpEbI_6mBonc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
